@@ -234,6 +234,7 @@ export const productPageQuery = graphql`
         pricing {
           heading
           description
+          description2
           plans {
             description
             items
